@@ -1,0 +1,95 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200;500;600;700;900&display=swap');
+body{font-family: 'Noto Serif TC', serif;}	
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.DO {
+    background-image: url(90.jpg);
+    height: 200px;
+    background-position: center center;
+    background-size: contain;
+}
+header h1  {
+    color: #650206;
+    text-align: center;
+    font-size: 41px;
+    background-color: #FEE1E1;
+    text-indent: 0;
+    line-height: 70px;
+    font-weight: 900;
+    font-variant: normal;
+    font-style: normal;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+nav   {
+    background-color: #EEEBEB;
+    height: 35px;
+    text-align: center;
+    font-size: x-large;
+}
+nav a:link  {
+    /* [disabled]background-color: #DAFCEE; */
+    text-decoration: none;
+    color: #F10A0E;
+}
+nav a:hover {
+    color: #E4C0C9;
+    text-decoration: underline;
+}
+.heroimg {
+    height: 250px;
+    text-align: center;
+    color: #F3EBEC;
+    background-color: #F3BBBC;
+    min-width: 0px;
+}
+div ul li {
+    text-align: left;
+    min-width: 0px;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    border-top-left-radius: 0px;
+    background-color: #FDFDFD;
+    opacity: 1;
+}
+nav p a {
+    width: 0px;
+    height: 0px;
+}
+main article article {
+    background-color: #EABCBE;
+    /* [disabled]border-radius: 10px; */
+    text-align: center;
+}
+main article p {
+    background-color: #FAF1F1;
+    text-align: left;
+    opacity: 1;
+}
+.container main iframe {
+    margin-left: auto;
+    margin-right: auto;
+}
+.container main article iframe {
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+}
+
+
+
+
+}
+
+
+
+
+
+
+@media screen{
+}
